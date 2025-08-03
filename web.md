@@ -12,6 +12,7 @@ http://localhost:80 手机
 
 # 开放原子基金会
 ## https://he109.atomgit.net/guo/ 主页
+
 ### 听音乐 https://he109.atomgit.net/music/
 
 <a href="https://he109.atomgit.net/guo/herj.html">点一下字 开始写日记</a>
@@ -28,8 +29,10 @@ http://localhost:80 手机
 <a href="https://gitee.com/yhe3/yi/raw/master/w/Y.jpg">Yi绘画师傅图  轻点一下字看看</a>
 
 
-https://he109.atomgit.net/guo/    统一网页书签
+https://he109.atomgit.net/guo/ 统一网页书签
+
 https://109guo.github.io/8guo/guoqin.html?uname=Yi
+
 https://he109.atomgit.net/music/
 
 https://he109.atomgit.net/guo/herj.html
@@ -78,20 +81,31 @@ https://gitee.com/yhe3/guo/raw/Yi/Yimusic/jquery.marquee.min.js
 https://gitee.com/yhe3/guo/raw/Yi/Yimusic/jquery.min.js
 https://gitee.com/yhe3/guo/raw/Yi/Yimusic/player.js
 <img src = 'https://gitee.com/yhe3/guo/raw/Yi/Yimusic/shi.png' >   十九
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/青春的颜色.mp3
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/喜欢你.mp3
+
 <img src = 'https://gitee.com/yhe3/guo/raw/Yi/Yimusic/liebiao.png' >  蓝色圈
+
+https://gitee.com/yhe3/guo/raw/Yi/Yimusic/青春的颜色.mp3
+
+https://gitee.com/yhe3/guo/raw/Yi/Yimusic/喜欢你.mp3
+
+
 https://gitee.com/yhe3/guo/raw/Yi/Yimusic/audio_sprite.png  播放器所有图标集
+
 https://gitee.com/yhe3/guo/raw/Yi/index.html  悬浮音乐播放HE代码
+
 https://gitee.com/yhe3/guo/raw/Yi/player.css
-https://atomgit.com/he109/music/blob/master/%E5%A6%82%E6%84%BF.mp3  如愿
+
+  如愿https://atomgit.com/he109/music/raw/master/%E5%A6%82%E6%84%BF.mp3
+
 <img src = 'https://gitee.com/he109/guo/raw/master/w.ico' >
 
 
 # github
 ## 网站H-9E用户的链接
 https://github.com/h-9e/he.git 克隆地址
+
 https://h-9e.github.io/h/
+
 https://h-9e.github.io/he/
 
 ### https://h-9e.github.io/h/guohe.html?uname=Yi
@@ -110,15 +124,21 @@ https://github.com/h-9e/he/edit/main/README.md
 ## 网站212545318@qq.com用户的链接
 
 https://github.com/109guo/8guo/upload/main   上传文件页
+
 ### https://109guo.github.io/guo/
+
 https://109guo.github.io/8guo/daz.html   打字机效果
+
 笔记实时更新
 https://github.com/109guo/8guo/edit/main/He.md
+
 https://atomgit.com/he109/guo/edit/master/%E8%B4%BA%E7%9A%84%E7%AC%94%E8%AE%B0.md
 
 查看页
 https://raw.githubusercontent.com/109guo/8guo/main/md.html
+
 https://github.com/109guo/8guo/blob/aaf50431cd0e7b7563ad702795b9e9e7f4eb7594/md.html
+
 真实的https://109guo.github.io/8guo/md.html查看页
 https://he109.atomgit.net/guo/%E8%B4%BA%E7%9A%84%E7%AC%94%E8%AE%B0.html
 
@@ -142,10 +162,15 @@ git clone https://github.com/Yi109HE/10.git
 
 电音之王
 http://music.163.com/song/media/outer/url?id=25657485.mp3
+
 http://music.163.com/song/media/outer/url?id=5381320.mp3
+
 http://music.163.com/song/media/outer/url?id=32408002.mp3
+
 http://music.163.com/song/media/outer/url?id=452986038.mp3
+
 http://music.163.com/song/media/outer/url?id=447925854.mp3
+
 http://music.163.com/song/media/outer/url?id=407042415.mp3
 电音之王
 
@@ -234,4 +259,5 @@ http://www.kushipu.com/mianshi/miantiao/
 
 https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO
 同步微软文字
+
 
