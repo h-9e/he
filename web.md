@@ -6,7 +6,7 @@ http://localhost:80 手机
 
 ## http://localhost  电脑http://127.0.0.1
 
-
+## http://nineteen.ysepan.com/
 
 
 
@@ -77,15 +77,15 @@ https://he109.atomgit.net/guo/%E5%AE%9E%E7%8E%B0%E8%AF%AD%E9%9F%B3%E5%90%88%E6%8
 https://gitee.com/yhe3/guo/raw/Yi/Yimusic/jquery.marquee.min.js
 https://gitee.com/yhe3/guo/raw/Yi/Yimusic/jquery.min.js
 https://gitee.com/yhe3/guo/raw/Yi/Yimusic/player.js
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/shi.png   十九
+<img src = 'https://gitee.com/yhe3/guo/raw/Yi/Yimusic/shi.png' >   十九
 https://gitee.com/yhe3/guo/raw/Yi/Yimusic/青春的颜色.mp3
 https://gitee.com/yhe3/guo/raw/Yi/Yimusic/喜欢你.mp3
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/liebiao.png  蓝色圈
+<img src = 'https://gitee.com/yhe3/guo/raw/Yi/Yimusic/liebiao.png' >  蓝色圈
 https://gitee.com/yhe3/guo/raw/Yi/Yimusic/audio_sprite.png  播放器所有图标集
 https://gitee.com/yhe3/guo/raw/Yi/index.html  悬浮音乐播放HE代码
 https://gitee.com/yhe3/guo/raw/Yi/player.css
-
-
+https://atomgit.com/he109/music/blob/master/%E5%A6%82%E6%84%BF.mp3  如愿
+<img src = 'https://gitee.com/he109/guo/raw/master/w.ico' >
 
 
 # github
@@ -203,7 +203,7 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 
 # 所有网站
 
-https://s3.bmp.ovh/imgs/2025/05/14/a12dea48ea6286bd.png
+<img src = 'https://s3.bmp.ovh/imgs/2025/05/14/a12dea48ea6286bd.png' >
 109图地址
 
 
@@ -221,7 +221,7 @@ https://s3.bmp.ovh/imgs/2025/05/14/a12dea48ea6286bd.png
 
 金色商标109透明底
 
-https://s3.bmp.ovh/imgs/2025/05/14/a12dea48ea6286bd.png
+
 
 
 ## 其它网页
@@ -234,3 +234,4 @@ http://www.kushipu.com/mianshi/miantiao/
 
 https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO
 同步微软文字
+
