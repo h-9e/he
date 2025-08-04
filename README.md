@@ -177,7 +177,10 @@ https://github.com/109guo/guo/blob/main/music/music/%E4%BD%A0%E7%AC%91%E8%B5%B7%
 
 
 
+https://109guo.github.io/guo/music/music/Yi.jpg手拉手 画家
 
+
+https://109guo.github.io/guo/music/music/i.png 花朵
 
 
 
@@ -286,6 +289,7 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 
 
 <a href="https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO">同步微软文字</a> 
+
 
 
 
