@@ -156,15 +156,15 @@ git clone https://github.com/Yi109HE/10.git
 https://github.com/h-9e/he/blob/main/i/ihait.png
 https://github.com/h-9e/he/raw/main/i/ihait.png 也可以看图
 ## 海豚<a href="https://raw.githubusercontent.com/h-9e/he/main/i/ihait.png">一笔画海豚</a>
-
+https://h-9e.github.io/he/i/ihait.png
 
 
 https://github.com/109guo/guo/blob/main/music/xian.html
-## 歌曲<a href="https://github.com/109guo/guo/blob/main/music/xian.html">H音乐专属</a>
+## 歌曲<a href="https://109guo.github.io/guo/music/xian.html">H音乐专属</a>
 
 https://github.com/109guo/guo/blob/main/music/img/h01.mp3 铃声
 ## 歌曲<a href="https://github.com/109guo/guo/raw/main/music/img/h01.mp3">H铃声</a>
-
+https://109guo.github.io/guo/music/img/h01.mp3
 
 
 https://github.com/109guo/guo/blob/main/music/music/%E4%BD%A0%E7%AC%91%E8%B5%B7%E6%9D%A5%E7%9C%9F%E5%A5%BD%E7%9C%8B.mp3
@@ -281,6 +281,7 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 
 
 <a href="https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO">同步微软文字</a> 
+
 
 
 
