@@ -6,7 +6,8 @@ http://localhost:80 手机
 
 ## http://localhost  电脑http://127.0.0.1
 
-## http://nineteen.ysepan.com/
+## <a href="http://nineteen.ysepan.com/">HE的永项网盘</a>
+
 
 
 
@@ -35,14 +36,14 @@ https://109guo.github.io/8guo/guoqin.html?uname=Yi
 
 https://he109.atomgit.net/music/
 
-https://he109.atomgit.net/guo/herj.html
-写日记
+<a href="https://he109.atomgit.net/guo/herj.html">写日记</a>
 
-https://he109.atomgit.net/guo/tiaod.html
-跳动字
 
-https://he109.atomgit.net/guo/kantxt.html
-阅读本地txt文件
+<a href="https://he109.atomgit.net/guo/tiaod.html">跳动字</a>
+
+
+<a href="https://he109.atomgit.net/guo/kantxt.html">阅读本地txt文件</a>
+
 
 https://he109.atomgit.net/guo/bdizp.html
 展示本地图片文件
@@ -57,22 +58,22 @@ https://he109.atomgit.net/guo/%E6%A3%80%E7%B4%A2%E8%AF%8D.html
 
 
 
-https://he109.atomgit.net/guo/%E7%AC%94txt%E8%AE%B0.html
+<a href="https://he109.atomgit.net/guo/%E7%AC%94txt%E8%AE%B0.html">写内容保存</a>
 写内容保存   笔txt记.html
 
 
-https://he109.atomgit.net/guo/xue.html
-练习写字
+<a href="https://he109.atomgit.net/guo/xue.html">练习写字</a>
 
 
-https://he109.atomgit.net/guo/HE%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0.html
-练习英语  HE英语学习.html
 
-https://he109.atomgit.net/guo/%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8.html
-播放本地  视频播放器.html
+<a href="https://he109.atomgit.net/guo/HE%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0.html">练习英语</a>
+  HE英语学习.html
+
+<a href="https://he109.atomgit.net/guo/%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8.html">播放本地</a>
+  视频播放器.html
 
 
-https://he109.atomgit.net/guo/%E5%AE%9E%E7%8E%B0%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E6%9C%97%E8%AF%BB.html
+<a href="https://he109.atomgit.net/guo/%E5%AE%9E%E7%8E%B0%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E6%9C%97%E8%AF%BB.html">输入内容  实现语音合</a>
 
 输入内容  实现语音合
 
@@ -111,10 +112,11 @@ https://h-9e.github.io/he/
 ### https://h-9e.github.io/h/guohe.html?uname=Yi
 微软背景图
 
-### https://github.com/h-9e/he/edit/main/web.md 写网页链接
+### <a href="https://github.com/h-9e/he/edit/main/README.md">HE1111111111111111111网页链接</a> 
 
-https://github.com/h-9e/he/edit/main/README.md
-编写文件存储文件名同步
+### <a href="https://github.com/h-9e/he/edit/main/web.md">写网页笔记</a> 
+
+
 
 
 
@@ -127,7 +129,7 @@ https://github.com/109guo/8guo/upload/main   上传文件页
 
 ### https://109guo.github.io/guo/
 
-https://109guo.github.io/8guo/daz.html   打字机效果
+<a href="https://109guo.github.io/8guo/daz.html"> 打字机效果</a>   
 
 笔记实时更新
 https://github.com/109guo/8guo/edit/main/He.md
@@ -158,7 +160,7 @@ git clone https://github.com/Yi109HE/10.git
 
 # 音乐🎵樂享
 
-## 无限温柔 http://music.163.com/song/media/outer/url?id=1920688651.mp3
+## 无限温柔 <a href="http://music.163.com/song/media/outer/url?id=1920688651.mp3">无限温柔mp3</a> 
 
 电音之王
 http://music.163.com/song/media/outer/url?id=25657485.mp3
@@ -181,7 +183,7 @@ http://music.163.com/song/media/outer/url?id=395155.mp3 拜年
 
 http://music.163.com/song/media/outer/url?id=29723046.mp3 刘德华恭喜发财
 
-## http://music.163.com/song/media/outer/url?id=461076125.mp3 催眠曲
+## <a href="http://music.163.com/song/media/outer/url?id=461076125.mp3">催眠曲mp3</a>  
 
 http://music.163.com/song/media/outer/url?id=2612430245.mp3 安眠曲
 
@@ -250,14 +252,15 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 
 
 ## 其它网页
-面条做法
-http://www.kushipu.com/mianshi/miantiao/
+
+<a href="http://www.kushipu.com/mianshi/miantiao/">面条做法</a> 
 
 
-##  http://192.168.31.1/cgi-bin/luci/web 小米路由器登录
+##  <a href="http://192.168.31.1/cgi-bin/luci/web">小米路由器登录</a>  
 
 
-https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO
-同步微软文字
+<a href="https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO">同步微软文字</a> 
+
+
 
 
