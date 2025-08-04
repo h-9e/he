@@ -161,7 +161,8 @@ git clone https://github.com/Yi109HE/10.git
 
 https://github.com/109guo/guo/blob/main/music/xian.html地址
 ## 歌曲<a href="https://109guo.github.io/guo/music/xian.html">H音乐专属</a>
-
+## 歌曲<a href="https://109guo.github.io/guo/music/i.html">♥音乐专属</a>
+## 播放器以上
 
 
 https://github.com/109guo/guo/blob/main/music/img/h01.mp3 铃声地址
@@ -283,6 +284,7 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 
 
 <a href="https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO">同步微软文字</a> 
+
 
 
 
