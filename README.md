@@ -11,6 +11,8 @@ http://localhost:80 手机
 
 
 
+
+
 # 开放原子基金会
 ## https://he109.atomgit.net/guo/ 主页
 
@@ -18,59 +20,48 @@ http://localhost:80 手机
 
 ## <a href="https://he109.atomgit.net/guo/herj.html">点一下字 开始写日记</a>
 
-## <a href="https://he109.atomgit.net/guo/%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8.html">Yi的笔记更新好了  轻点一下字看看</a>
+## <a href="https://he109.atomgit.net/guo/%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8.html">Yi的笔记更新好了  轻点一下字看看</a>  guo/图书列表.html
 
 ## <a href="https://he109.atomgit.net/guo/iepub/Epub.html">专门看Epub格式book  轻点一下字看看</a>牛津通识生活上心理学
 
 ## <a href="https://he109.atomgit.net/guo/iepub/indexh.html">财富自由从0到1</a>
 
-
 ## <a href="https://he109.atomgit.net/guo/iepub/sw.html">批判性思维</a>
 
-## <a href="https://gitee.com/yhe3/yi/raw/master/w/Y.jpg">Yi绘画师傅图  轻点一下字看看</a>
-
-
-## https://he109.atomgit.net/guo/ 统一网页书签
-
-## <a href="https://109guo.github.io/8guo/guoqin.html?uname=Yi">星空主页</a>
-
-https://he109.atomgit.net/music/
+## https://he109.atomgit.net/guo/ 统一网页书签 主页
 
 ## <a href="https://he109.atomgit.net/guo/herj.html">写日记</a>
 
-
 ## <a href="https://he109.atomgit.net/guo/tiaod.html">跳动字</a>
-
 
 ## <a href="https://he109.atomgit.net/guo/kantxt.html">阅读本地txt文件</a>
 
 
-https://he109.atomgit.net/guo/bdizp.html
+## <a href="https://he109.atomgit.net/guo/bdizp.html">本地照片相册集</a>  
 展示本地图片文件
 
 
-https://he109.atomgit.net/guo/%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8.html
-我的制作电子书。图书列表.html
+## <a href="https://he109.atomgit.net/guo/%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8.html">我的制作电子书主页</a>  
+目录电子书。guo/图书列表.html
 
 
-https://he109.atomgit.net/guo/%E6%A3%80%E7%B4%A2%E8%AF%8D.html
-全文搜索  检索词.html
-
-
-
-## <a href="https://he109.atomgit.net/guo/%E7%AC%94txt%E8%AE%B0.html">写内容保存</a>
-写内容保存   笔txt记.html
-
-
-## <a href="https://he109.atomgit.net/guo/xue.html">练习写字</a>
+## <a href="https://he109.atomgit.net/guo/%E6%A3%80%E7%B4%A2%E8%AF%8D.html">全文搜索</a>
+搜索高亮  检索词.html
 
 
 
-## <a href="https://he109.atomgit.net/guo/HE%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0.html">练习英语</a>
-  HE英语学习.html
+## <a href="https://he109.atomgit.net/guo/%E7%AC%94txt%E8%AE%B0.html">写内容txt保存</a>
+写内容保存   guo/笔txt记.html
+
+
+## <a href="https://he109.atomgit.net/guo/xue.html">练习写字</a> 读书写字的练习字
+
+
+
+## <a href="https://he109.atomgit.net/guo/HE%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0.html">练习英语</a> 可以HE英语学习.html
 
 ## <a href="https://he109.atomgit.net/guo/%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8.html">播放本地</a>
-  视频播放器.html
+ 文件名 guo/视频播放器.html
 
 
 ## <a href="https://he109.atomgit.net/guo/%E5%AE%9E%E7%8E%B0%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E6%9C%97%E8%AF%BB.html">输入内容  实现语音合</a>
@@ -85,9 +76,7 @@ https://gitee.com/yhe3/guo/raw/Yi/Yimusic/player.js
 
 <img src = 'https://gitee.com/yhe3/guo/raw/Yi/Yimusic/liebiao.png' >  蓝色圈
 
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/青春的颜色.mp3
 
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/喜欢你.mp3
 
 
 https://gitee.com/yhe3/guo/raw/Yi/Yimusic/audio_sprite.png  播放器所有图标集
@@ -96,9 +85,13 @@ https://gitee.com/yhe3/guo/raw/Yi/index.html  悬浮音乐播放HE代码
 
 https://gitee.com/yhe3/guo/raw/Yi/player.css
 
-  如愿https://atomgit.com/he109/music/raw/master/%E5%A6%82%E6%84%BF.mp3
+  如愿MP3歌曲试听https://atomgit.com/he109/music/raw/master/%E5%A6%82%E6%84%BF.mp3
 
-<img src = 'https://gitee.com/he109/guo/raw/master/w.ico' >
+
+
+
+
+
 
 
 # github
@@ -109,7 +102,7 @@ https://github.com/h-9e/he.git 克隆地址
 
 ## https://h-9e.github.io/he/
 
-### https://h-9e.github.io/h/guohe.html?uname=Yi
+## <a href="https://h-9e.github.io/h/guohe.html?uname=Yi">微软背景图主页</a> 
 微软背景图
 
 ### <a href="https://github.com/h-9e/he/edit/main/README.md">HE1111111111111111111网页链接</a> 
@@ -123,8 +116,12 @@ https://github.com/h-9e/he/raw/main/i/ihait.png 也可以看图
 
 
 
+
+
 # github
 ## 网站212545318@qq.com用户的链接
+
+## <a href="https://109guo.github.io/8guo/guoqin.html?uname=Yi">星空主页</a>
 
 https://github.com/109guo/8guo/upload/main   上传文件页
 
@@ -289,6 +286,7 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 
 
 <a href="https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO">同步微软文字</a> 
+
 
 
 
