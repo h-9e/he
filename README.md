@@ -76,11 +76,78 @@ https://gitee.com/yhe3/guo/raw/Yi/index.html  悬浮音乐播放HE代码
 
 https://gitee.com/yhe3/guo/raw/Yi/player.css
 
+海豚皇冠
+## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/Q.png">海豚皇冠</a> 
 
-  如愿MP3歌曲试听https://atomgit.com/he109/music/raw/master/%E5%A6%82%E6%84%BF.mp3
+海豚❤图## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/X.png">海豚爱♥图</a> 
+
+家客厅
+## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/i.jpg">家客厅</a> 
+
+十九金色图标
+## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/shi.png">十九金色图标</a> 
+
+家客厅左
+## <a href="https://atomgit.com/he109/music/raw/master/Yijiaq.jpg">家客厅左</a> 
+
+
+
+## <a href="https://atomgit.com/he109/master/w.ico">图？呢</a> 
+
+
+
+
+陈翔六点半歌曲幸福.mp3
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/he.mp3"> 陈翔六点半歌曲幸福</a> 
+
+你的答案.mp3
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88.mp3">你的答案</a> 
+
+听我说谢谢你.mp3
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E5%90%AC%E6%88%91%E8%AF%B4%E8%B0%A2%E8%B0%A2%E4%BD%A0.mp3
+">听我说谢谢你.mp3</a> 
+
+
+孤勇者MP3
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E5%AD%A4%E5%8B%87%E8%80%85.mp3">孤勇者MP3</a> 
+
+
+少年MP3
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E5%B0%91%E5%B9%B4.mp3">少年MP3</a> 
+
+
+离别开出花.mp3
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E7%A6%BB%E5%88%AB%E5%BC%80%E5%87%BA%E8%8A%B1.mp3">离别开出花.mp3</a> 
+
+
+野人男版MP3
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E9%87%8E%E4%BA%BA%E7%94%B7%E7%89%88.mp3">野人男版MP3</a> 
+
+
+一笔画女孩图## <a href="https://atomgit.com/he109/music/raw/master/Yi/Yi.jpg">一笔画女孩</a> 
+
+
+歌曲封面女孩图## <a href="https://atomgit.com/he109/music/raw/master/Yi/ZJ.jpg">歌曲封面女孩</a> 
+
+
+  如愿MP3歌曲试听## <a href="https://atomgit.com/he109/music/raw/master/%E5%A6%82%E6%84%BF.mp3"> 如愿</a> 
+
+青春的颜色.mp3
+## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/%E9%9D%92%E6%98%A5%E7%9A%84%E9%A2%9C%E8%89%B2.mp3">青春的颜色</a> 
 
   光辉岁月.mp3
 ## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88.mp3">  光辉岁月</a> 
+
+  原点.mp3
+## <a href="https://atomgit.com/he109/music/raw/master/%E5%8E%9F%E7%82%B9.mp3">原点</a> 
+
+喜欢你MP3
+## <a href="https://atomgit.com/he109/music/raw/master/xh.mp3">喜欢你</a> 
+
+
+
+
+
 
 
 
@@ -284,6 +351,7 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 
 
 <a href="https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO">同步微软文字</a> 
+
 
 
 
