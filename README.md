@@ -79,7 +79,8 @@ https://gitee.com/yhe3/guo/raw/Yi/player.css
 
   如愿MP3歌曲试听https://atomgit.com/he109/music/raw/master/%E5%A6%82%E6%84%BF.mp3
 
-
+  光辉岁月.mp3
+## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88.mp3">  光辉岁月</a> 
 
 
 
