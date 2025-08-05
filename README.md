@@ -90,11 +90,9 @@ https://gitee.com/yhe3/guo/raw/Yi/player.css
 家客厅左
 ## <a href="https://atomgit.com/he109/music/raw/master/Yijiaq.jpg">家客厅左</a> 
 
-
+## <a href="https://atomgit.com/he109/guo/raw/master/iepub/w.ico">海？？/</a> 
 
 ## <a href="https://atomgit.com/he109/master/w.ico">图？呢</a> 
-
-
 
 
 陈翔六点半歌曲幸福.mp3
@@ -351,6 +349,7 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 
 
 <a href="https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO">同步微软文字</a> 
+
 
 
 
