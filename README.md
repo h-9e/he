@@ -7,6 +7,17 @@ http://localhost:80 手机
 ## <a href="http://nineteen.ysepan.com/">HE的永项网盘</a>
 
 
+# 创建好的网站
+
+## <a href="https://109guo.github.io/9guo/Search.html">网站TXT书本在线看</a>
+
+## <a href="https://109guo.github.io/9guo/Archives.html">网站PDF书本在线看</a>
+
+## <a href="https://he109.atomgit.net/guo/iepub/Epub.html">网站EPUB书本在线看</a>
+
+## <a href="https://he109.atomgit.net/guo/">主页部分书签</a>
+
+
 
 
 
@@ -24,19 +35,15 @@ https://atomgit.com/he109/guo/edit/master/web.md
 https://atomgit.com/he109/guo/blob/master/web.md
 
 
-## https://he109.atomgit.net/guo/ 主页
 
-### 听音乐 https://he109.atomgit.net/music/
+## https://he109.atomgit.net/guo/ 主页
 
 ## <a href="https://he109.atomgit.net/guo/herj.html">点一下字 开始写日记</a>
 
 ## <a href="https://he109.atomgit.net/guo/%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8.html">Yi的笔记更新好了  轻点一下字看看</a>  guo/图书列表.html
 
-## <a href="https://he109.atomgit.net/guo/iepub/Epub.html">专门看Epub格式book  轻点一下字看看</a>牛津通识生活上心理学
-
-## <a href="https://he109.atomgit.net/guo/iepub/indexh.html">财富自由从0到1</a>
-
-## <a href="https://he109.atomgit.net/guo/iepub/sw.html">批判性思维</a>
+记录
+https://atomgit.com/he109/guo/edit/master/%E8%B4%BA%E7%9A%84%E7%AC%94%E8%AE%B0.md
 
 ## https://he109.atomgit.net/guo/ 统一网页书签 主页
 
@@ -74,20 +81,19 @@ https://atomgit.com/he109/guo/blob/master/web.md
 ## <a href="https://he109.atomgit.net/guo/%E5%AE%9E%E7%8E%B0%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E6%9C%97%E8%AF%BB.html">输入内容  实现语音合</a>
 
 
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/jquery.marquee.min.js
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/jquery.min.js
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/player.js
-<img src = 'https://gitee.com/yhe3/guo/raw/Yi/Yimusic/shi.png' >   十九
 
-<img src = 'https://gitee.com/yhe3/guo/raw/Yi/Yimusic/liebiao.png' >  蓝色圈
 
-播放器所有图标集
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/audio_sprite.png  
+## <a href="https://he109.atomgit.net/guo/iepub/Epub.html">专门看Epub格式book  轻点一下字看看</a>牛津通识生活上心理学
 
-悬浮音乐播放HE代码
-https://gitee.com/yhe3/guo/raw/Yi/index.html  
+## <a href="https://he109.atomgit.net/guo/iepub/indexh.html">财富自由从0到1</a>
 
-https://gitee.com/yhe3/guo/raw/Yi/player.css
+## <a href="https://he109.atomgit.net/guo/iepub/sw.html">批判性思维</a>
+
+
+
+
+
+### 听音乐 https://he109.atomgit.net/music/
 
 海豚皇冠
 <img src = 'https://atomgit.com/he109/music/raw/master/Yimusic/Q.png">海豚皇冠
@@ -103,9 +109,6 @@ https://gitee.com/yhe3/guo/raw/Yi/player.css
 
 家客厅左
 ## <a href="https://atomgit.com/he109/music/raw/master/Yijiaq.jpg">家客厅左</a> 
-
-图标网页
-https://atomgit.com/he109/master/w.ico
 
 
 
@@ -141,6 +144,10 @@ https://atomgit.com/he109/master/w.ico
 歌曲封面女孩图<a href="https://atomgit.com/he109/music/raw/master/Yi/ZJ.jpg">歌曲封面女孩</a> 
 
 
+生日快乐
+  ## <a href="https://atomgit.com/he109/music/raw/master/Happy.mp3">生日快乐</a>
+
+
   如愿MP3歌曲
   ## <a href="https://atomgit.com/he109/music/raw/master/%E5%A6%82%E6%84%BF.mp3">如愿试听</a> 
 
@@ -155,6 +162,36 @@ https://atomgit.com/he109/master/w.ico
 
 喜欢你MP3
 ## <a href="https://atomgit.com/he109/music/raw/master/xh.mp3">喜欢你试听</a> 
+
+图标网页
+https://atomgit.com/he109/master/w.ico
+
+
+
+
+
+
+https://gitee.com/yhe3/guo/raw/Yi/Yimusic/jquery.marquee.min.js
+https://gitee.com/yhe3/guo/raw/Yi/Yimusic/jquery.min.js
+https://gitee.com/yhe3/guo/raw/Yi/Yimusic/player.js
+<img src = 'https://gitee.com/yhe3/guo/raw/Yi/Yimusic/shi.png' >   十九
+
+<img src = 'https://gitee.com/yhe3/guo/raw/Yi/Yimusic/liebiao.png' >  蓝色圈
+
+播放器所有图标集
+https://gitee.com/yhe3/guo/raw/Yi/Yimusic/audio_sprite.png  
+
+悬浮音乐播放HE代码
+https://gitee.com/yhe3/guo/raw/Yi/index.html  
+
+https://gitee.com/yhe3/guo/raw/Yi/player.css
+
+
+
+
+
+
+
 
 
 
@@ -181,6 +218,11 @@ https://github.com/h-9e/he.git
 微软背景图
 ## <a href="https://h-9e.github.io/h/guohe.html?uname=Yi">微软背景图主页</a> 
 
+
+
+
+
+
 ### <a href="https://github.com/h-9e/he/edit/main/README.md">HE1111111111111111111网页WWW地址链接111111111111</a> 
 
 ### <a href="https://github.com/h-9e/he/edit/main/web.md">写网页笔记</a> 
@@ -200,42 +242,8 @@ https://github.com/h-9e/he/raw/main/i/ihait.png 也可以看图
 # github    网站109guo用户   琴
 ## 网站212545318@qq.com用户的主要链接
 
-## <a href="https://109guo.github.io/8guo/guoqin.html?uname=Yi">星空主页1</a>
-
-上传文件页
-https://github.com/109guo/8guo/upload/main   
-
- 记录着 微笑着
+记录着 微笑着
 ## <a href=https://109guo.github.io/guo/"> 文字效果 主页2</a>   
-
-
-## <a href="https://109guo.github.io/8guo/daz.html"> 打字机效果页</a>   
-
-笔记实时更新
-https://github.com/109guo/8guo/edit/main/He.md
-
-https://atomgit.com/he109/guo/edit/master/%E8%B4%BA%E7%9A%84%E7%AC%94%E8%AE%B0.md
-
-查看页
-https://raw.githubusercontent.com/109guo/8guo/main/md.html
-
-https://github.com/109guo/8guo/blob/aaf50431cd0e7b7563ad702795b9e9e7f4eb7594/md.html
-
-真实的https://109guo.github.io/8guo/md.html查看页
-https://he109.atomgit.net/guo/%E8%B4%BA%E7%9A%84%E7%AC%94%E8%AE%B0.html
-
-直接写Yi家庭主页 位置和链接   星空背景
-https://github.com/109guo/8guo/edit/main/guoqin.html
-
-同步了TXT知识文件
-git clone https://github.com/Yi109HE/10.git
-
-
-
-
-
-
-
 
 
 https://github.com/109guo/guo/blob/main/music/xian.html地址
@@ -268,7 +276,47 @@ https://109guo.github.io/guo/music/music/i.png
 
 
 
+
+
+## <a href="https://109guo.github.io/8guo/guoqin.html?uname=Yi">星空主页1</a>
+
+上传文件页
+https://github.com/109guo/8guo/upload/main   
+
+
+## <a href="https://109guo.github.io/8guo/daz.html"> 打字机效果页</a>   
+
+笔记实时更新
+https://github.com/109guo/8guo/edit/main/He.md
+
+
+真实的https://109guo.github.io/8guo/md.html查看页
+https://he109.atomgit.net/guo/%E8%B4%BA%E7%9A%84%E7%AC%94%E8%AE%B0.html
+
+直接写Yi家庭主页 位置和链接   星空背景
+https://github.com/109guo/8guo/edit/main/guoqin.html
+
+
+同步了TXT知识文件  克隆
+git clone https://github.com/Yi109HE/10.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 音乐🎵樂享
+
+网易ID歌单
 
 ## 无限温柔 <a href="http://music.163.com/song/media/outer/url?id=1920688651.mp3">无限温柔mp3</a> 
 
@@ -373,6 +421,9 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 
 
 <a href="https://1drv.ms/o/c/a7451b8c70a4ff76/Eh0Y1MMBg-1On1LYzoUjXxIBBe-2tOa21tF_7zEKpPlEig?e=r1YIWO">同步微软文字</a> 
+
+
+
 
 
 
