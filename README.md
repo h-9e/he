@@ -12,6 +12,18 @@ http://localhost:80 手机
 
 
 # 开放原子基金会
+
+# 同步 github开放原子基金会
+
+不登录看
+https://atomgit.com/he109/guo/raw/master/web.md
+
+直接写
+https://atomgit.com/he109/guo/edit/master/web.md
+在线看
+https://atomgit.com/he109/guo/blob/master/web.md
+
+
 ## https://he109.atomgit.net/guo/ 主页
 
 ### 听音乐 https://he109.atomgit.net/music/
@@ -69,78 +81,82 @@ https://gitee.com/yhe3/guo/raw/Yi/Yimusic/player.js
 
 <img src = 'https://gitee.com/yhe3/guo/raw/Yi/Yimusic/liebiao.png' >  蓝色圈
 
+播放器所有图标集
+https://gitee.com/yhe3/guo/raw/Yi/Yimusic/audio_sprite.png  
 
-https://gitee.com/yhe3/guo/raw/Yi/Yimusic/audio_sprite.png  播放器所有图标集
-
-https://gitee.com/yhe3/guo/raw/Yi/index.html  悬浮音乐播放HE代码
+悬浮音乐播放HE代码
+https://gitee.com/yhe3/guo/raw/Yi/index.html  
 
 https://gitee.com/yhe3/guo/raw/Yi/player.css
 
 海豚皇冠
-## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/Q.png">海豚皇冠</a> 
+<img src = 'https://atomgit.com/he109/music/raw/master/Yimusic/Q.png">海豚皇冠
 
-海豚❤图## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/X.png">海豚爱♥图</a> 
+海豚❤图
+<img src = 'https://atomgit.com/he109/music/raw/master/Yimusic/X.png">海豚爱♥图
 
 家客厅
 ## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/i.jpg">家客厅</a> 
 
 十九金色图标
-## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/shi.png">十九金色图标</a> 
+<img src = 'https://atomgit.com/he109/music/raw/master/Yimusic/shi.png">十九金色图标
 
 家客厅左
 ## <a href="https://atomgit.com/he109/music/raw/master/Yijiaq.jpg">家客厅左</a> 
 
-## <a href="https://atomgit.com/he109/guo/raw/master/iepub/w.ico">海？？/</a> 
+图标网页
+https://atomgit.com/he109/master/w.ico
 
-## <a href="https://atomgit.com/he109/master/w.ico">图？呢</a> 
 
 
 陈翔六点半歌曲幸福.mp3
-## <a href="https://atomgit.com/he109/music/raw/master/Yi/he.mp3"> 陈翔六点半歌曲幸福</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/he.mp3"> 陈翔六点半歌曲幸福试听</a> 
 
 你的答案.mp3
-## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88.mp3">你的答案</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88.mp3">你的答案试听</a> 
 
 听我说谢谢你.mp3
-## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E5%90%AC%E6%88%91%E8%AF%B4%E8%B0%A2%E8%B0%A2%E4%BD%A0.mp3
-">听我说谢谢你.mp3</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E5%90%AC%E6%88%91%E8%AF%B4%E8%B0%A2%E8%B0%A2%E4%BD%A0.mp3">听我说谢谢你试听</a> 
 
 
 孤勇者MP3
-## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E5%AD%A4%E5%8B%87%E8%80%85.mp3">孤勇者MP3</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E5%AD%A4%E5%8B%87%E8%80%85.mp3">孤勇者MP3试听</a> 
 
 
 少年MP3
-## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E5%B0%91%E5%B9%B4.mp3">少年MP3</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E5%B0%91%E5%B9%B4.mp3">少年MP3试听</a> 
 
 
 离别开出花.mp3
-## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E7%A6%BB%E5%88%AB%E5%BC%80%E5%87%BA%E8%8A%B1.mp3">离别开出花.mp3</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E7%A6%BB%E5%88%AB%E5%BC%80%E5%87%BA%E8%8A%B1.mp3">离别开出花试听</a> 
 
 
 野人男版MP3
-## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E9%87%8E%E4%BA%BA%E7%94%B7%E7%89%88.mp3">野人男版MP3</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/Yi/%E9%87%8E%E4%BA%BA%E7%94%B7%E7%89%88.mp3">野人男版MP3试听</a> 
 
 
-一笔画女孩图## <a href="https://atomgit.com/he109/music/raw/master/Yi/Yi.jpg">一笔画女孩</a> 
+一笔画女孩图<a href="https://atomgit.com/he109/music/raw/master/Yi/Yi.jpg">一笔画女孩</a> 
 
 
-歌曲封面女孩图## <a href="https://atomgit.com/he109/music/raw/master/Yi/ZJ.jpg">歌曲封面女孩</a> 
+歌曲封面女孩图<a href="https://atomgit.com/he109/music/raw/master/Yi/ZJ.jpg">歌曲封面女孩</a> 
 
 
-  如愿MP3歌曲试听## <a href="https://atomgit.com/he109/music/raw/master/%E5%A6%82%E6%84%BF.mp3"> 如愿</a> 
+  如愿MP3歌曲
+  ## <a href="https://atomgit.com/he109/music/raw/master/%E5%A6%82%E6%84%BF.mp3">如愿试听</a> 
 
 青春的颜色.mp3
-## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/%E9%9D%92%E6%98%A5%E7%9A%84%E9%A2%9C%E8%89%B2.mp3">青春的颜色</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/%E9%9D%92%E6%98%A5%E7%9A%84%E9%A2%9C%E8%89%B2.mp3">青春的颜色试听</a> 
 
   光辉岁月.mp3
-## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88.mp3">  光辉岁月</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/Yimusic/%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88.mp3">光辉岁月试听</a> 
 
   原点.mp3
-## <a href="https://atomgit.com/he109/music/raw/master/%E5%8E%9F%E7%82%B9.mp3">原点</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/%E5%8E%9F%E7%82%B9.mp3">原点试听</a> 
 
 喜欢你MP3
-## <a href="https://atomgit.com/he109/music/raw/master/xh.mp3">喜欢你</a> 
+## <a href="https://atomgit.com/he109/music/raw/master/xh.mp3">喜欢你试听</a> 
+
+
 
 
 
@@ -155,21 +171,23 @@ https://gitee.com/yhe3/guo/raw/Yi/player.css
 
 # github
 ## 网站H-9E用户i的链接
-https://github.com/h-9e/he.git 克隆地址
+克隆地址
+https://github.com/h-9e/he.git 
 
 ## https://h-9e.github.io/h/
 
 ## https://h-9e.github.io/he/
 
-## <a href="https://h-9e.github.io/h/guohe.html?uname=Yi">微软背景图主页</a> 
 微软背景图
+## <a href="https://h-9e.github.io/h/guohe.html?uname=Yi">微软背景图主页</a> 
 
-### <a href="https://github.com/h-9e/he/edit/main/README.md">HE1111111111111111111网页链接</a> 
+### <a href="https://github.com/h-9e/he/edit/main/README.md">HE1111111111111111111网页WWW地址链接111111111111</a> 
 
 ### <a href="https://github.com/h-9e/he/edit/main/web.md">写网页笔记</a> 
 
+
 https://github.com/h-9e/he/raw/main/i/ihait.png 也可以看图
-## 海豚<a href="https://raw.githubusercontent.com/h-9e/he/main/i/ihait.png">一笔画海豚</a>
+<img src = 'https://raw.githubusercontent.com/h-9e/he/main/i/ihait.png">一笔画海豚
 
 
 
@@ -184,7 +202,8 @@ https://github.com/h-9e/he/raw/main/i/ihait.png 也可以看图
 
 ## <a href="https://109guo.github.io/8guo/guoqin.html?uname=Yi">星空主页1</a>
 
-https://github.com/109guo/8guo/upload/main   上传文件页
+上传文件页
+https://github.com/109guo/8guo/upload/main   
 
  记录着 微笑着
 ## <a href=https://109guo.github.io/guo/"> 文字效果 主页2</a>   
@@ -227,20 +246,22 @@ https://github.com/109guo/guo/blob/main/music/xian.html地址
 
 ## https://github.com/109guo/guo/edit/main/music/xinyihe.json填写怡喜欢歌单地址
 
-https://github.com/109guo/guo/blob/main/music/img/h01.mp3 铃声地址
-## 歌曲<a href="https://109guo.github.io/guo/music/img/h01.mp3">H铃声</a>
+铃声地址
+https://github.com/109guo/guo/blob/main/music/img/h01.mp3 
+## 歌曲<a href="https://109guo.github.io/guo/music/img/h01.mp3">H铃声试听</a>
 
 ## 歌曲<a href="https://109guo.github.io/guo/music/music/%E5%90%AC%E6%88%91%E8%AF%B4%E8%B0%A2%E8%B0%A2%E4%BD%A0.mp3">听我说谢谢你.mp3</a>
 
-https://github.com/109guo/guo/blob/main/music/music/%E4%BD%A0%E7%AC%91%E8%B5%B7%E6%9D%A5%E7%9C%9F%E5%A5%BD%E7%9C%8B.mp3地址
+地址
+https://github.com/109guo/guo/blob/main/music/music/%E4%BD%A0%E7%AC%91%E8%B5%B7%E6%9D%A5%E7%9C%9F%E5%A5%BD%E7%9C%8B.mp3
 ## 歌曲<a href="https://109guo.github.io/guo/music/music/%E4%BD%A0%E7%AC%91%E8%B5%B7%E6%9D%A5%E7%9C%9F%E5%A5%BD%E7%9C%8B.mp3">你笑起来真好看.mp3</a>
 
 
 
 ## 做<a href="https://109guo.github.io/guo/music/music/Yi.jpg">手拉手</a> 画家
 
-
-https://109guo.github.io/guo/music/music/i.png 花朵
+花朵
+https://109guo.github.io/guo/music/music/i.png 
 
 
 
@@ -265,29 +286,32 @@ http://music.163.com/song/media/outer/url?id=447925854.mp3
 http://music.163.com/song/media/outer/url?id=407042415.mp3
 电音之王
 
+小拜年
+http://music.163.com/song/media/outer/url?id=395179.mp3 
 
-http://music.163.com/song/media/outer/url?id=395179.mp3 小拜年
+拜年
+http://music.163.com/song/media/outer/url?id=395155.mp3 
 
-http://music.163.com/song/media/outer/url?id=395155.mp3 拜年
-
-http://music.163.com/song/media/outer/url?id=29723046.mp3 刘德华恭喜发财
+刘德华恭喜发财
+## <a href="http://music.163.com/song/media/outer/url?id=29723046.mp3 ">刘德华恭喜发财mp3</a> 
 
 ## <a href="http://music.163.com/song/media/outer/url?id=461076125.mp3">催眠曲mp3</a>  
 
-http://music.163.com/song/media/outer/url?id=2612430245.mp3 安眠曲
+## <a href="http://music.163.com/song/media/outer/url?id=2612430245.mp3">安眠曲mp3</a>
 
-http://music.163.com/song/media/outer/url?id=2622538819.mp3
 苹果香（童声版
+## <a href="http://music.163.com/song/media/outer/url?id=2622538819.mp3">苹果香mp3</a>
 
-http://music.163.com/song/media/outer/url?id=2648943648.mp3
 爱你
+http://music.163.com/song/media/outer/url?id=2648943648.mp3
 
-http://music.163.com/song/media/outer/url?id=1413585838.mp3
 与我无关
+http://music.163.com/song/media/outer/url?id=1413585838.mp3
 
 
-http://music.163.com/song/media/outer/url?id=432698302.mp3
 多远都要在一起
+http://music.163.com/song/media/outer/url?id=432698302.mp3
+
 
 ## 歌单
 <!--网易云netease歌单697279537 夜晚曲.   自己13835563112  收藏25390779   518997136的   
@@ -302,16 +326,16 @@ https://music.163.com/playlist?id=697279537&uct2=U2FsdGVkX1+0FVoSHpgi8mdQaxqPIX0
 ## 个人  lkbhe喜欢的音乐https://music.163.com/playlist?id=13835563112&uct2=U2FsdGVkX1/6e+fwnD74hhkpJXTr33Hpe7AKGXABKbQ=
 
 
-
-https://music.163.com/playlist?id=25390779&uct2=U2FsdGVkX1/g1zMT6bh1Ut2SCUTIH+wB8Q64y+jXBJg=  喜欢的音乐
+喜欢的音乐
+https://music.163.com/playlist?id=25390779&uct2=U2FsdGVkX1/g1zMT6bh1Ut2SCUTIH+wB8Q64y+jXBJg=  
 
 
 ## 个人 背景乐https://music.163.com/playlist?id=518997136&uct2=U2FsdGVkX197o616sqZMJO3rB25L8QDNorXTdn9Jn3w=
 
 
-
-https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+iINEDh9gHHYvSE=
 任贤齐
+https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+iINEDh9gHHYvSE=
+
 
 
 
@@ -322,20 +346,20 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 <img src = 'https://s3.bmp.ovh/imgs/2025/05/14/a12dea48ea6286bd.png' >
 109图地址
 
+壁纸桌面蓝色模板3.jpg
+<img src = 'https://s3.bmp.ovh/imgs/2025/05/16/4f7462b3796e3b97.jpg' >      
 
-<img src = 'https://s3.bmp.ovh/imgs/2025/05/16/4f7462b3796e3b97.jpg' >      壁纸桌面蓝色模板3.jpg
 
-
-
-<img src = 'https://s3.bmp.ovh/imgs/2025/05/16/6ad09eaba0db9394.png' >
 葡萄
+<img src = 'https://s3.bmp.ovh/imgs/2025/05/16/6ad09eaba0db9394.png' >
 
-## <img src = 'https://s3.bmp.ovh/imgs/2025/05/16/c45dbf6d157d24c2.png' >
 金色商标109
-
-<img src = 'https://s3.bmp.ovh/imgs/2025/05/16/6fe2f69b27a74980.png' >
+## <img src = 'https://s3.bmp.ovh/imgs/2025/05/16/c45dbf6d157d24c2.png' >
 
 金色商标109透明底
+<img src = 'https://s3.bmp.ovh/imgs/2025/05/16/6fe2f69b27a74980.png' >
+
+
 
 
 
