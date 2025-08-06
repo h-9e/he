@@ -6,6 +6,9 @@ http://localhost:80 手机
 
 ## <a href="http://nineteen.ysepan.com/">HE的永项网盘</a>
 
+## <a href="http://wei1.ysepan.com/">懿的网页</a>
+
+## <a href="http://qyih.ysepan.com/">馨i</a>
 
 # 创建好的网站
 
@@ -461,6 +464,7 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 在网站前面输入view-source:可以查看网页代码
 http://nineteen.ysepan.com/
 view-source:http://nineteen.ysepan.com/
+
 
 
 
