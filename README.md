@@ -9,13 +9,150 @@ http://localhost:80 手机
 
 # 创建好的网站
 
+## <a href="https://109guo.github.io/9guo/yi.html">网站书主页</a>
+
 ## <a href="https://109guo.github.io/9guo/Search.html">网站TXT书本在线看</a>
 
 ## <a href="https://109guo.github.io/9guo/Archives.html">网站PDF书本在线看</a>
 
+## <a href="https://109guo.github.io/9guo/html/sslj.html">一首诗熟记三十六计</a>
+
 ## <a href="https://he109.atomgit.net/guo/iepub/Epub.html">网站EPUB书本在线看</a>
 
-## <a href="https://he109.atomgit.net/guo/">主页部分书签</a>
+
+
+
+<meta name="octolytics-url" content="https://collector.github.com/github/collect" /><meta name="octolytics-actor-id" content="217417020" /><meta name="octolytics-actor-login" content="109guo" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# github
+## 网站H-9E用户i的链接
+17775703679@189.cn
+克隆地址
+https://github.com/h-9e/he.git 
+
+## https://h-9e.github.io/h/
+
+## https://h-9e.github.io/he/
+
+微软背景图
+## <a href="https://h-9e.github.io/h/guohe.html?uname=Yi">微软背景图主页</a> 
+
+
+
+
+
+
+### <a href="https://github.com/h-9e/he/edit/main/README.md">HE1111111111111111111网页WWW地址链接111111111111</a> 
+
+### <a href="https://github.com/h-9e/he/edit/main/web.md">写网页笔记</a> 
+
+
+https://github.com/h-9e/he/raw/main/i/ihait.png 也可以看图
+<img src = 'https://raw.githubusercontent.com/h-9e/he/main/i/ihait.png">一笔画海豚
+
+
+
+
+
+
+
+
+
+# github    网站109guo用户   琴
+## 网站212545318@qq.com用户的主要链接
+
+记录着 微笑着
+## <a href=https://109guo.github.io/guo/"> 文字效果 主页2</a>   
+
+
+https://github.com/109guo/guo/blob/main/music/xian.html地址
+## 歌曲<a href="https://109guo.github.io/guo/music/xian.html">H音乐专属</a>
+
+## 歌曲<a href="https://109guo.github.io/guo/music/i.html">♥音乐专属</a>
+## 播放器以上
+
+## https://github.com/109guo/guo/edit/main/music/xinyihe.json填写怡喜欢歌单地址
+
+铃声地址
+https://github.com/109guo/guo/blob/main/music/img/h01.mp3 
+## 歌曲<a href="https://109guo.github.io/guo/music/img/h01.mp3">H铃声试听</a>
+
+## 歌曲<a href="https://109guo.github.io/guo/music/music/%E5%90%AC%E6%88%91%E8%AF%B4%E8%B0%A2%E8%B0%A2%E4%BD%A0.mp3">听我说谢谢你.mp3</a>
+
+地址
+https://github.com/109guo/guo/blob/main/music/music/%E4%BD%A0%E7%AC%91%E8%B5%B7%E6%9D%A5%E7%9C%9F%E5%A5%BD%E7%9C%8B.mp3
+## 歌曲<a href="https://109guo.github.io/guo/music/music/%E4%BD%A0%E7%AC%91%E8%B5%B7%E6%9D%A5%E7%9C%9F%E5%A5%BD%E7%9C%8B.mp3">你笑起来真好看.mp3</a>
+
+
+
+## 做<a href="https://109guo.github.io/guo/music/music/Yi.jpg">手拉手</a> 画家
+
+花朵
+https://109guo.github.io/guo/music/music/i.png 
+
+
+https://109guo.github.io/9guo/index%E5%85%A8%E9%83%A8.html
+
+
+
+
+
+## <a href="https://109guo.github.io/8guo/guoqin.html?uname=Yi">星空主页1</a>
+
+上传文件页
+https://github.com/109guo/8guo/upload/main   
+
+
+## <a href="https://109guo.github.io/8guo/daz.html"> 打字机效果页</a>   
+
+笔记实时更新
+https://github.com/109guo/8guo/edit/main/He.md
+
+
+
+
+
+直接写Yi家庭主页 位置和链接   星空背景
+https://github.com/109guo/8guo/edit/main/guoqin.html
+
+
+同步了TXT知识文件  克隆
+git clone https://github.com/Yi109HE/10.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -187,118 +324,12 @@ https://gitee.com/yhe3/guo/raw/Yi/index.html
 https://gitee.com/yhe3/guo/raw/Yi/player.css
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# github
-## 网站H-9E用户i的链接
-克隆地址
-https://github.com/h-9e/he.git 
-
-## https://h-9e.github.io/h/
-
-## https://h-9e.github.io/he/
-
-微软背景图
-## <a href="https://h-9e.github.io/h/guohe.html?uname=Yi">微软背景图主页</a> 
-
-
-
-
-
-
-### <a href="https://github.com/h-9e/he/edit/main/README.md">HE1111111111111111111网页WWW地址链接111111111111</a> 
-
-### <a href="https://github.com/h-9e/he/edit/main/web.md">写网页笔记</a> 
-
-
-https://github.com/h-9e/he/raw/main/i/ihait.png 也可以看图
-<img src = 'https://raw.githubusercontent.com/h-9e/he/main/i/ihait.png">一笔画海豚
-
-
-
-
-
-
-
-
-
-# github    网站109guo用户   琴
-## 网站212545318@qq.com用户的主要链接
-
-记录着 微笑着
-## <a href=https://109guo.github.io/guo/"> 文字效果 主页2</a>   
-
-
-https://github.com/109guo/guo/blob/main/music/xian.html地址
-## 歌曲<a href="https://109guo.github.io/guo/music/xian.html">H音乐专属</a>
-
-## 歌曲<a href="https://109guo.github.io/guo/music/i.html">♥音乐专属</a>
-## 播放器以上
-
-## https://github.com/109guo/guo/edit/main/music/xinyihe.json填写怡喜欢歌单地址
-
-铃声地址
-https://github.com/109guo/guo/blob/main/music/img/h01.mp3 
-## 歌曲<a href="https://109guo.github.io/guo/music/img/h01.mp3">H铃声试听</a>
-
-## 歌曲<a href="https://109guo.github.io/guo/music/music/%E5%90%AC%E6%88%91%E8%AF%B4%E8%B0%A2%E8%B0%A2%E4%BD%A0.mp3">听我说谢谢你.mp3</a>
-
-地址
-https://github.com/109guo/guo/blob/main/music/music/%E4%BD%A0%E7%AC%91%E8%B5%B7%E6%9D%A5%E7%9C%9F%E5%A5%BD%E7%9C%8B.mp3
-## 歌曲<a href="https://109guo.github.io/guo/music/music/%E4%BD%A0%E7%AC%91%E8%B5%B7%E6%9D%A5%E7%9C%9F%E5%A5%BD%E7%9C%8B.mp3">你笑起来真好看.mp3</a>
-
-
-
-## 做<a href="https://109guo.github.io/guo/music/music/Yi.jpg">手拉手</a> 画家
-
-花朵
-https://109guo.github.io/guo/music/music/i.png 
-
-
-https://109guo.github.io/9guo/index%E5%85%A8%E9%83%A8.html
-
-
-
-
-
-## <a href="https://109guo.github.io/8guo/guoqin.html?uname=Yi">星空主页1</a>
-
-上传文件页
-https://github.com/109guo/8guo/upload/main   
-
-
-## <a href="https://109guo.github.io/8guo/daz.html"> 打字机效果页</a>   
-
-笔记实时更新
-https://github.com/109guo/8guo/edit/main/He.md
-
-
-真实的https://109guo.github.io/8guo/md.html查看页
+guo/贺的笔记.html
 https://he109.atomgit.net/guo/%E8%B4%BA%E7%9A%84%E7%AC%94%E8%AE%B0.html
 
-直接写Yi家庭主页 位置和链接   星空背景
-https://github.com/109guo/8guo/edit/main/guoqin.html
 
 
-同步了TXT知识文件  克隆
-git clone https://github.com/Yi109HE/10.git
+
 
 
 
@@ -427,14 +458,9 @@ https://music.163.com/playlist?id=2129466456&uct2=U2FsdGVkX19g9n+ASyNHTRpO9sT8+i
 
 
 
-
-
-
-
-
-
-
-
+在网站前面输入view-source:可以查看网页代码
+http://nineteen.ysepan.com/
+view-source:http://nineteen.ysepan.com/
 
 
 
